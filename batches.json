@@ -1,0 +1,84 @@
+{
+  "react173": [
+    {
+      "name": "vijaykumar",
+      "email": "kumar.m447@gmail.com",
+      "location": "INDIA",
+      "course": "MERNSTACK",
+      "phone": "7896541231",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Veeresh",
+      "email": "veeresh@gmail.com",
+      "location": "USA",
+      "course": "PYTHON",
+      "phone": 8896541211
+    },
+    {
+      "id": 3,
+      "name": "Anitha",
+      "email": "anitha@gmail.com",
+      "location": "INDIA",
+      "course": "UI",
+      "phone": 9996541230
+    },
+    {
+      "id": 4,
+      "name": "Sidhardh",
+      "email": "sidhardh@gmail.com",
+      "location": "USA",
+      "course": "REACT",
+      "phone": 9896541222
+    },
+    {
+      "id": 5,
+      "name": "Dhanush",
+      "email": "dhanush@gmail.com",
+      "location": "INDIA",
+      "course": "ANGULAR",
+      "phone": 8896541211
+    },
+    {
+      "name": "satheesh",
+      "email": "satheesh@gmail.com",
+      "location": "INDIA",
+      "course": "MERNSTACK",
+      "phone": "9874563210",
+      "id": 6
+    },
+    {
+      "name": "Raghu",
+      "email": "raghu@gmail.com",
+      "location": "INDIA",
+      "course": "UI",
+      "phone": "8879654120",
+      "id": 7
+    },
+    {
+      "name": "chanti",
+      "email": "chanti@gmail.com",
+      "location": "INDIA",
+      "course": "REACT",
+      "phone": "9998887770",
+      "id": 8
+    },
+    {
+      "name": "peter",
+      "email": "peter@gmail.com",
+      "location": "INDIA",
+      "course": "MERNSTACK",
+      "phone": "8889997770",
+      "id": 9
+    },
+    {
+      "name": "sainihal",
+      "email": "sainihal@gmail.com",
+      "location": "VIZAG",
+      "course": "REACT-NODE",
+      "phone": "9998887770",
+      "id": 10
+    }
+  ]
+}

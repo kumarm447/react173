@@ -1,0 +1,91 @@
+[
+      {
+        "name": "vijaykumar",
+        "email": "kumar.m447@gmail.com",
+        "location": "INDIA",
+        "course": "MERNSTACK",
+        "phone": "7896541231",
+        "id": 1
+      },
+      {
+        "id": 2,
+        "name": "Veeresh",
+        "email": "veeresh@gmail.com",
+        "location": "USA",
+        "course": "PYTHON",
+        "phone": 8896541211
+      },
+      { 
+        "id": 3,
+        "name": "Anitha",
+        "email": "anitha@gmail.com",
+        "location": "INDIA",
+        "course": "UI",
+        "phone": 9996541230
+      },
+      {
+        "id": 4,
+        "name": "Sidhardh",
+        "email": "sidhardh@gmail.com",
+        "location": "USA",
+        "course": "REACT",
+        "phone": 9896541222
+      },
+      {
+        "id": 5,
+        "name": "Dhanush",
+        "email": "dhanush@gmail.com",
+        "location": "INDIA",
+        "course": "ANGULAR",
+        "phone": 8896541211
+      },
+      {
+        "name": "satheesh",
+        "email": "satheesh@gmail.com",
+        "location": "INDIA",
+        "course": "MERNSTACK",
+        "phone": "9874563210",
+        "id": 6
+      },
+      {
+        "name": "Raghu",
+        "email": "raghu@gmail.com",
+        "location": "INDIA",
+        "course": "UI",
+        "phone": "8879654120",
+        "id": 7
+      },
+      {
+        "name": "nihal",
+        "email": "nihal@gmail.com",
+        "location": "INDIA",
+        "course": "FULLSTACK",
+        "phone": "7989278424",
+        "id": 8
+      },
+      {
+        "name": "sathish",
+        "email": "sathish@gmail.com",
+        "location": "INDIA",
+        "course": "REACT-NODE",
+        "phone": "897452136",
+        "id": 9
+      },
+      {
+        "name": "janardhanrao",
+        "email": "janardhanrao@gmail.com",
+        "location": "INDIA",
+        "course": "FULLSTACK",
+        "phone": "8796541231",
+        "id": 10
+      },
+      {
+        "name": "kavya",
+        "email": "kavya@gmail.com",
+        "location": "INDIA",
+        "course": "FULLSTACK",
+        "phone": "9988774455",
+        "id": 11
+      }
+    ]
+ 

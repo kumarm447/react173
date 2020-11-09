@@ -1,0 +1,68 @@
+{
+  "react173": [
+    {
+      "name": "vijaykumar",
+      "email": "vijaykumar@gmail.com",
+      "city": "Hyd",
+      "course": "FULLSTACK_DEVELOPMENT",
+      "phone": "7896512301",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Thirupathi",
+      "email": "thirupathi@gmail.com",
+      "city": "Hyderabad",
+      "course": "React",
+      "phone": 7896541211
+    },
+    {
+      "id": 3,
+      "name": "Saikrishna",
+      "email": "saikrishna@gmail.com",
+      "city": "Guntur",
+      "course": "React",
+      "phone": 7896541100
+    },
+    {
+      "id": 4,
+      "name": "Madhavi",
+      "email": "madhavi@gmail.com",
+      "city": "Secundrabad",
+      "course": "UI",
+      "phone": 9896541101
+    },
+    {
+      "id": 5,
+      "name": "Madhu",
+      "email": "madhu@gmail.com",
+      "city": "Prakasham",
+      "course": "Fullstack",
+      "phone": 9896541199
+    },
+    {
+      "name": "ravi",
+      "email": "ravi@gmail.com",
+      "city": "Guntur",
+      "course": "FULLSTACK",
+      "phone": "8877992510",
+      "id": 6
+    },
+    {
+      "name": "manish",
+      "email": "manish@gmail.com",
+      "city": "Pune",
+      "course": "UI",
+      "phone": "9988741230",
+      "id": 7
+    },
+    {
+      "name": "ajaykumar",
+      "email": "ajaykumar@gmail.com",
+      "city": "hyderabad",
+      "course": "UI_Development",
+      "phone": "98745632101",
+      "id": 8
+    }
+  ]
+}
